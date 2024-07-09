@@ -1,3 +1,3 @@
 # MotivationalPoster
 includes:
-image, border, background, custom fonts, and position
+image, box model, font properties, and colours.
